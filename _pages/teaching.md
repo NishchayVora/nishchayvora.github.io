@@ -6,7 +6,9 @@ description:
 nav: true
 order: 3
 ---
-##### **Kavli Asian Winter School (KAWS) on Strings, Particles and Cosmology**
+##### **Kavli Asian Winter School (KAWS) on Strings, Particles and Cosmology**  
+*International Centre for Theoretical Science (TIFR), Bangalore, India*
+
 *January 2022* 
 
 Pan-Asian collaborative online school with lectures on the latest developments in high energy theory. 
