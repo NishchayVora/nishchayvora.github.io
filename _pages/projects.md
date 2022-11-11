@@ -7,7 +7,7 @@ nav: true
 order: 2
 ---
 ##### **Fast Calculation of Effective Number of Cosmological Neutrinos in Comoving Variables**
-**Institute Nazionale De Fisica Nucleare - Sezione Di Torino** <br />
+*Institute Nazionale De Fisica Nucleare - Sezione Di Torino* <br />
 *Pi: Dr. Stefano Gariazzo*
 
 *Jun. 2022 - Present* 
@@ -19,7 +19,7 @@ order: 2
 
 ---
 ##### **Astronomical data-processing pipeline creation for the Devasthal Fast Optical Telescope**
-**Aryabhatta Research Institute Of Observational Sciences (ARIES Observatory, Nainital)**
+*Aryabhatta Research Institute Of Observational Sciences (ARIES Observatory, Nainital)*
 
 *May. 2022* 
 
@@ -30,7 +30,7 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 ---
 ##### **Thermalization of Neutrinos in the Early Universe (Master’s thesis)**
-**Institute Nazionale De Fisica Nucleare - Sezione Di Torino** <br />
+*Institute Nazionale De Fisica Nucleare - Sezione Di Torino* <br />
 *Pi: Dr. Stefano Gariazzo*
 
 *Jan. 2022 - May. 2022* 
@@ -41,7 +41,7 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 ---
 ##### **Study on the Modern Cosmological Model (Bachelor’s Thesis)**
-**Institute Nazionale De Fisica Nucleare - Sezione Di Torino** <br />
+*Institute Nazionale De Fisica Nucleare - Sezione Di Torino* <br />
 *Pi: Dr. Stefano Gariazzo*
 
 *Aug. 2021 - Dec. 2021*
@@ -53,7 +53,7 @@ for monitoring of transients, variability of stars, AGNs, etc.
 ---
 
 ##### **Study on Weak Interactions and Neutrinos**
-**Nuclear And Particle Physics Group, Dept. Of Physics, BITS Pilani** <br />
+*Nuclear And Particle Physics Group, Dept. Of Physics, BITS Pilani* <br />
 *Pi: Prof. Rishikesh Vaidya*
 
 *Jan. 2021 - May. 2021* 
@@ -64,8 +64,8 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 ---
 
-##### **Experimental and Computational Analysis of Droplet Dynamics on Superhydrophobic Surfaces*
-**Department Of Mechanical Engineering, BITS Pilani** <br />
+##### **Experimental and Computational Analysis of Droplet Dynamics on Superhydrophobic Surfaces**
+*Department Of Mechanical Engineering, BITS Pilani* <br />
 *Pi: Prof. A.R. Harikrishnan*
 
 *Aug. 2020 - May. 2021* 
@@ -76,7 +76,7 @@ for monitoring of transients, variability of stars, AGNs, etc.
 ---
 
 ##### **Optimization of Large Rotating Plug of Prototype Fast Breeder Reactor (PFBR, Kalpakkam)**
-**Indira Gandhi Centre For Atomic Research (IGCAR)** <br />
+*Indira Gandhi Centre For Atomic Research (IGCAR)* <br />
 *Pi: Mr. S.r. Aithal*
 
 *May. 2019 - Jul. 2019*
@@ -86,8 +86,8 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 ---
 
-##### **Image Sensing by Hypersprectal Camera and Sun-Sensor Optimization on Nanosatellite*
-**Team Anant - Nanosatellite Team, BITS Pilani**
+##### **Image Sensing by Hypersprectal Camera and Sun-Sensor Optimization on Nanosatellite**
+*Team Anant - Nanosatellite Team, BITS Pilani*
 
 *May - July 2020*
 
