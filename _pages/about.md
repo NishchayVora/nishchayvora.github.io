@@ -38,4 +38,4 @@ I previously worked at the [RWTH Aachen University](https://www.rwth-aachen.de/g
 
 My CV can be viewed at this [link.]([https://drive.google.com/file/d/1uW0SW5H9WgGPyJw4GhzgqJLMxQAp85kI/view?usp=sharing](https://drive.google.com/file/d/1Ov2LBBed_4qDJBs2tKbKrj2e7WNwERcd/view?usp=sharing))
 
-Feel free to get in touch with me at my [email address!](mailto:nishchay.vora@gmail.com)
+Feel free to get in touch with me at my [email address!](mailto:nishchay.vora@gmail.com).
