@@ -56,7 +56,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: nishchayvora # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: @NishchayVora # your Twitter handle
+twitter_username: NishchayVora # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -172,7 +172,7 @@ remove_HTML_comments: false
 beautify: true # This function has conflict with the code snippets, they can be displayed incorrectly
 
 # HTML minify (_plugins/minify.rb) Thanks to: https://www.ffbit.com/blog/2021/03/17/html-minification-in-jekyll.html
-minify: true
+minify: false
 
 # CSS/SASS minify
 sass:
@@ -199,8 +199,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Vora
-  first_name: [Nishchay, V.]
+  last_name: Bhatnagar
+  first_name: [Hardik, H.]
 
   style: apa
   locale: en
