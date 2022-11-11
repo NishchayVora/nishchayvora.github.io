@@ -6,6 +6,16 @@ description:
 nav: true
 order: 3
 ---
+##### **Neutrinos: Here, There and Everywhere**  
+*Niels Bohr International Academy (NBIA), Copenhagen, Denmark*
+
+*July 2022* 
+
+Current theoretical problems in neutrino physics, state-of-the-art neutrino experiments, and applications in cosmology and astrophysics.
+
+[website]([https://academy.neuromatch.io/](https://indico.nbi.ku.dk/event/1731/))
+
+---
 ##### **ARIES Training School in Observational Astronomy (ATSOA 2022)**  
 *Aryabhatta research institute of observational sciences (ARIES), Nainital, India*
 
