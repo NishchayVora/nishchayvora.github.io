@@ -99,6 +99,9 @@ pagination:
 # -----------------------------------------------------------------------------
 
 collections:
+  news:
+    output: false
+    permalink: /news/:path/
   projects:
     output: false
     permalink: /projects/:path/
