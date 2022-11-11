@@ -12,10 +12,10 @@ order: 2
 
 *Jun. 2022 - Present* 
 
-- Numerically computing number of effective relativistic neutrino species in comoving variables after non-instantaneous neutrino decoupling.
-- Developing a fast code with 10e-2 accuracy to the full calculations, but reducing computation time from days to a few seconds.
-- Considering effects of neutrino oscillations, electron mass suppression, finite temperature QED corrections, etc. on the Neff.
-- Calculating in a model-independent manner to analyze the impact of stellar neutrino species, WIMPs, thermal dark matter, etc.
+• Numerically computing number of effective relativistic neutrino species in comoving variables after non-instantaneous neutrino decoupling.  
+• Developing a fast code with 10e-2 accuracy to the full calculations, but reducing computation time from days to a few seconds.  
+• Considering effects of neutrino oscillations, electron mass suppression, finite temperature QED corrections, etc. on the Neff.  
+• Calculating in a model-independent manner to analyze the impact of stellar neutrino species, WIMPs, thermal dark matter, etc.  
 
 ---
 ##### **Astronomical data-processing pipeline creation for the Devasthal Fast Optical Telescope**
@@ -23,10 +23,10 @@ order: 2
 
 *May. 2022* 
 
-+ Created an open online data archive for wide-field photometry observations from DFOT.
-+ An automated computational pipeline was developed to convert raw FITS astronomical data from each observation to processed images.
-+ Pre-processing, astrometry and photometry was done using Python (Astropy, Photoutils, Astroalign, CCDProc) to make the process easily modifiable
-for monitoring of transients, variability of stars, AGNs, etc.
+• Created an open online data archive for wide-field photometry observations from DFOT.  
+• An automated computational pipeline was developed to convert raw FITS astronomical data from each observation to processed images.  
+• Pre-processing, astrometry and photometry was done using Python (Astropy, Photoutils, Astroalign, CCDProc) to make the process easily modifiable
+for monitoring of transients, variability of stars, AGNs, etc.  
 
 ---
 ##### **Thermalization of Neutrinos in the Early Universe (Master’s thesis)**
@@ -35,9 +35,9 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 *Jan. 2022 - May. 2022* 
 
-..* Understood neutrino decoupling in standard cosmology in both instantaneous and non-instantaneous case.
-..* Solved the relativistic Boltzmann equations in comoving variables to see effects on photon and neutrino temperature evolution.
-..* Calculated distortions in the neutrino distributions due to electron-positron annihilation by computing the collision terms for each interaction.
+• Understood neutrino decoupling in standard cosmology in both instantaneous and non-instantaneous case.  
+• Solved the relativistic Boltzmann equations in comoving variables to see effects on photon and neutrino temperature evolution.  
+• Calculated distortions in the neutrino distributions due to electron-positron annihilation by computing the collision terms for each interaction.  
 
 ---
 ##### **Study on the Modern Cosmological Model (Bachelor’s Thesis)**
@@ -46,9 +46,9 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 *Aug. 2021 - Dec. 2021*
 
-* Understood geometry of curved spacetime, Equivalence principle, Einstein and Friedmann equations in Lambda-CDM model.
-* Studied statistical mechanics, thermodynamics and the dynamics of an expanding universe, and constructed the Boltzmann equations.
-* Studied dynamics of the early universe, including inflation, species decoupling and transitions of epochs.
+• Understood geometry of curved spacetime, Equivalence principle, Einstein and Friedmann equations in Lambda-CDM model.  
+• Studied statistical mechanics, thermodynamics and the dynamics of an expanding universe, and constructed the Boltzmann equations.  
+• Studied dynamics of the early universe, including inflation, species decoupling and transitions of epochs.  
 
 ---
 
@@ -58,9 +58,9 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 *Jan. 2021 - May. 2021* 
 
-- Understood weak gauge interactions and the family structure of leptons to appreciate masslessness of neutrinos within the standard model.
-- Understood the experimental background, solar and atmospheric neutrino anomalies as well as accelerator experiments.
-- Understood the Dirac and Majorana nature of neutrinos and Neutrino oscillations as a solution to these problems.
+• Understood weak gauge interactions and the family structure of leptons to appreciate masslessness of neutrinos within the standard model.  
+• Understood the experimental background, solar and atmospheric neutrino anomalies as well as accelerator experiments.  
+• Understood the Dirac and Majorana nature of neutrinos and Neutrino oscillations as a solution to these problems.  
 
 ---
 
@@ -70,8 +70,8 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 *Aug. 2020 - May. 2021* 
 
-- Setup and conducted the experiment using a high-speed camera for water droplets impacting syperhydrophobic acrylic surfaces.
-- Developed computational fluid dynamic simulations for varying multiphase cases and compared with the experimental data.
+• Setup and conducted the experiment using a high-speed camera for water droplets impacting syperhydrophobic acrylic surfaces.  
+• Developed computational fluid dynamic simulations for varying multiphase cases and compared with the experimental data.  
 
 ---
 
@@ -81,8 +81,8 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 *May. 2019 - Jul. 2019*
 
-- Optimized components of the top shield of the new 500MWe fast breeder nuclear reactor being constructed in Kalpakkam, Tamil Nadu.
-- Designed Large Diameter Bearings to handle the extreme temperature gradient in the top shield using spacer balls for high reliability.
+• Optimized components of the top shield of the new 500MWe fast breeder nuclear reactor being constructed in Kalpakkam, Tamil Nadu.  
+• Designed Large Diameter Bearings to handle the extreme temperature gradient in the top shield using spacer balls for high reliability.  
 
 ---
 
@@ -91,8 +91,8 @@ for monitoring of transients, variability of stars, AGNs, etc.
 
 *May - July 2020*
 
-• Worked in the Payload subsystem on image sensing through a hyperspectral camera to detect algal bloom patterns in the Indian Ocean
-• Worked in Attitude Determination and Control subsystem (ADCS) on Sun Sensors Placement and Optimization for the nanosatellite.
+• Worked in the Payload subsystem on image sensing through a hyperspectral camera to detect algal bloom patterns in the Indian Ocean.  
+• Worked in Attitude Determination and Control subsystem (ADCS) on Sun Sensors Placement and Optimization for the nanosatellite.  
 
 ---
 
