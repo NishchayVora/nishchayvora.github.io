@@ -6,12 +6,12 @@ description:
 nav: true
 order: 3
 ---
-##### **Neuromatch Academy 2021, Deep Learning**
-*August 2021* 
+##### **Kavli Asian Winter School (KAWS) on Strings, Particles and Cosmology**
+*January 2022* 
 
-The course covers Deep Learning, including theory and techniques of deep learning with an emphasis on neuroscience. The students also work on a small group project. 
+Pan-Asian collaborative online school with lectures on the latest developments in high energy theory. 
 
-[website](https://academy.neuromatch.io/), [course content](https://deeplearning.neuromatch.io/)
+[website](https://www.icts.res.in/program/kaws2022)
 
 ---
 ##### **Neuromatch Academy 2021, Computational Neuroscience**
