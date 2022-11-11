@@ -6,82 +6,88 @@ description:
 nav: true
 order: 2
 ---
-##### **Inferring neuronal computation from partial observations**
-*Feb 2022 - Present* 
+##### **Fast Calculation of Effective Number of Cosmological Neutrinos in Comoving Variables**
+*Jun. 2022 - Present* 
 
-*Allen Institute of Brain Sciences, Seattle*
+*INSTITUTE NAZIONALE DE FISICA NUCLEARE - SEZIONE DI TORINO, PI: DR. STEFANO GARIAZZO*
 
-I am working under [Prof. Kaspar Podgorski](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/kaspar-podgorski/) where I am exploring ways to infer a neuron’s computations from partial observations of its inputs and outputs. I am looking into simulating neurons as hierarchical linear-nonlinear models under a variety of conditions and inferring the parameters of the simulated neuron using gradient descent methods with PyTorch.
-
-
----
-##### **Investigating the physiology of aging across mouse population**
-*Aug 2021 - Jan 2022* 
-
-*EPFL, Switzerland*
-
-I worked under [Prof. Johan Auwerx](https://people.epfl.ch/johan.auwerx?lang=en) and worked on analysing biological timeseries data with machine learning and computational modelling. I explored ways to analyze timeseries across genetically diverse mice populations and looked into methods to create a health index to summarize aging properties across the population.
+• Numerically computing number of effective relativistic neutrino species in comoving variables after non-instantaneous neutrino decoupling.
+• Developing a fast code with 10e-2 accuracy to the full calculations, but reducing computation time from days to a few seconds.
+• Considering effects of neutrino oscillations, electron mass suppression, finite temperature QED corrections, etc. on the N􀕊􀕋􀕋 .
+• Calculating in a model-independent manner to analyze the impact of stellar neutrino species, WIMPs, thermal dark matter, etc.
 
 ---
-##### **Automating cloud instance health checks and maintenance**
-*May 2021 - July 2021* 
+##### **Astronomical data-processing pipeline creation for the Devasthal Fast Optical Telescope**
+*May. 2022* 
 
-*ServiceNow, Hyderabad, India*
+*ARYABHATTA RESEARCH INSTITUTE OF OBSERVATIONAL SCIENCES (ARIES OBSERVATORY, NAINITAL)*
 
-I worked as a software development intern in the cloud computing and development operations (DevOps) team on a proprietary cloud infrastructure platform for monitoring the health of cloud instances and load balancing.
-
----
-##### **Modelling biological networks using formal language**
-*Aug 2020 - Dec 2020* 
-
-*Department of Computer Science, BITS Pilani*
-
-I worked under [Prof. Rajesh Kumar](https://www.bits-pilani.ac.in/pilani/rajeshk/profile) where I explored ways to analyze biological networks such as gene regulatory networks (GRNs), with the help of formal language and automata theory. Specifically, we worked on the fault analysis of GRNs to understand the effect of induced drugs and modelling stochasticity in GRNs using probabilistic boolean networks. 
+• Created an open online data archive for wide-field photometry observations from DFOT.
+• An automated computational pipeline was developed to convert raw FITS astronomical data from each observation to processed images.
+• Pre-processing, astrometry and photometry was done using Python (Astropy, Photoutils, Astroalign, CCDProc) to make the process easily modifiable
+for monitoring of transients, variability of stars, AGNs, etc.
 
 ---
+##### **Thermalization of Neutrinos in the Early Universe (Master’s thesis)**
+*Jan. 2022 - May. 2022* 
 
-##### **Prediction of coronary heart disease with data mining and machine learning**
-*Aug 2020 - Dec 2020* 
+*INSTITUTE NAZIONALE DE FISICA NUCLEARE - SEZIONE DI TORINO, PI: DR. STEFANO GARIAZZO*
 
-*Department of Biological Sciences, BITS Pilani*
-
-I worked under [Prof. Syamantak Majumder](https://www.bits-pilani.ac.in/pilani/syamantakmajumder/profile) to understand the biological paramaters influencing heart diseases with machine learning, using data from hospital patients. I worked on comparing various machine learning and deep learning models for their best performance on the task.
+• Understood neutrino decoupling in standard cosmology in both instantaneous and non-instantaneous case.
+• Solved the relativistic Boltzmann equations in comoving variables to see effects on photon and neutrino temperature evolution.
+• Calculated distortions in the neutrino distributions due to electron-positron annihilation by computing the collision terms for each interaction.
 
 ---
+##### **Study on the Modern Cosmological Model (Bachelor’s Thesis)**
+*Aug. 2021 - Dec. 2021* 
 
-##### **Analysis of the neural patterns betweeen face and shape recognition**
-*Neuromatch Academy*
+*INSTITUTE NAZIONALE DE FISICA NUCLEARE - SEZIONE DI TORINO, PI: DR. STEFANO GARIAZZO*
 
-*July 2020* 
-
-The [Neuromatch Academy](https://www.neuromatchacademy.org/) was a summer school where we were trained on learning computational tools and apply them to real-life neuroscience research problems. Some of the topics which interested me the most were dynanimcal networks, bayesian statistics, and optimal control. As part of the group project, we worked on the [Human Connectome Project (HCP)](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) dataset, where we analysed the neural patterns between face and shape recognition in the brain.
+• Understood geometry of curved spacetime, Equivalence principle, Einstein and Friedmann equations in Lambda-CDM model.
+• Studied statistical mechanics, thermodynamics and the dynamics of an expanding universe, and constructed the Boltzmann equations.
+• Studied dynamics of the early universe, including inflation, species decoupling and transitions of epochs.
 
 ---
 
-##### **Protein engineering with deep learning**
-*RWTH Aachen University, Germany*
+##### **Study on Weak Interactions and Neutrinos**
+*Jan. 2021 - May. 2021* 
+
+*NUCLEAR AND PARTICLE PHYSICS GROUP, DEPT. OF PHYSICS, BITS PILANI, PI: PROF. RISHIKESH VAIDYA*
+
+• Understood weak gauge interactions and the family structure of leptons to appreciate masslessness of neutrinos within the standard model.
+• Understood the experimental background, solar and atmospheric neutrino anomalies as well as accelerator experiments.
+• Understood the Dirac and Majorana nature of neutrinos and Neutrino oscillations as a solution to these problems.
+
+---
+
+##### **Experimental and Computational Analysis of Droplet Dynamics on Superhydrophobic Surfaces*
+
+*Aug. 2020 - May. 2021* 
+
+• Setup and conducted the experiment using a high-speed camera for water droplets impacting syperhydrophobic acrylic surfaces.
+• Developed computational fluid dynamic simulations for varying multiphase cases and compared with the experimental data.
+
+---
+
+##### **Optimization of Large Rotating Plug of Prototype Fast Breeder Reactor (PFBR, Kalpakkam)**
+*INDIRA GANDHI CENTRE FOR ATOMIC RESEARCH (IGCAR), PI: MR. S.R. AITHAL*
+
+*May. 2019 - Jul. 2019*
+
+• Optimized components of the top shield of the new 500MWe fast breeder nuclear reactor being constructed in Kalpakkam, Tamil Nadu.
+• Designed Large Diameter Bearings to handle the extreme temperature gradient in the top shield using spacer balls for high reliability.
+
+---
+
+##### **Image Sensing by Hypersprectal Camera and Sun-Sensor Optimization on Nanosatellite*
 
 *May - July 2020*
 
-I worked as a research intern at the [Institute of Biotechnology](https://www.biotec.rwth-aachen.de/cms/~imne/BIOTEC/lidx/1/) under Prof. Mehdi D. Davari. I worked on the prediction of biophysical properties of enzymes created through directed evoultion, a process mimicking natural selection. I experimented with various machine learning and deep learning models for choosing the best performing model for the required task, and analyzed high throughput data for protein mutation samples. 
+• Worked in the Payload subsystem on image sensing through a hyperspectral camera to detect algal bloom patterns in the Indian Ocean
+• Worked in Attitude Determination and Control subsystem (ADCS) on Sun Sensors Placement and Optimization for the nanosatellite.
 
 ---
 
-##### **Machine learning for cancer prognosis using biomedical image data**
-*Department of Biological Sciences, BITS Pilani*
-
-*May - July 2020*
-
-I worked under [Prof. Meghana Tare](https://www.bits-pilani.ac.in/pilani/meghanatare/profile) to analyze biomedical image samples with machine learning and deep learning models. I performed biomedical image segmentation with the help of convolutional neural networks, and classified the MR images using the 3-D voxel data.
-
----
-
-##### **Custom JupyterHub AWS instance with automated load balancing using Kubernetes**
-*UST Global, Trivandrum, India*
-
-*May - July 2019*
-
-I worked as a software development intern at the research center of the company, Infinity Labs. I worked on developing a proof of concept AWS JupyterHub cluster using Kubernetes for internal company resources to explore and prototype machine learning models without local installation and dependices. I also worked on automating the load management for each user's instance, along with a custom login protocol based on an internal authentication method of the organization.
 
 <!--
 <div class="projects grid">
