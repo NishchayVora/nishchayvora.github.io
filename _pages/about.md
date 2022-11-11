@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Nishchay, I have completed double majors in (B.E.) Mechanical and (M.Sc.) Physics from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}.
+Hi! I am Nishchay, I have completed double majors in (B.E.) Mechanical and (M.Sc.) Physics from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}..
 
 My research interest lies at the intersection of particle physics and cosmology. I'm exploring particle interactions in the early universe, extensions of the standard model and modified theories of gravity.
 
