@@ -100,8 +100,6 @@ pagination:
 
 collections:
   news:
-    defaults:
-      layout: post
     output: false
     permalink: /news/:path/
   projects:
