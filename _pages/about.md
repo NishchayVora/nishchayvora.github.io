@@ -18,9 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Nishchay, I have completed double majors in (B.E.) Mechanical and (M.Sc.) Physics from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}..
+Hi! I am Nishchay, I have completed double majors in (B.E.) Mechanical and (M.Sc.) Physics from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}.
 
-My research interest lies at the intersection of particle physics and cosmology. I'm exploring particle interactions in the early universe, extensions of the standard model and modified theories of gravity.
+My research interests lie at the intersection of particle physics and cosmology. I'm exploring particle interactions in the early universe, extensions of the standard model and modified theories of gravity.
 
 <!-- Thesis at Allen -->
 Currently, I am pursuing a research project under the guidance of Dr. Stefano Gariazzo at the [Insitute Nazionale di Fisica Nucleare - Sezione da Torino](https://www.to.infn.it/) where I'm developing a fast calculation of the effective number of cosmological neutrinos in the early universe. 
