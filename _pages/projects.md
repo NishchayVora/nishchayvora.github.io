@@ -7,15 +7,15 @@ nav: true
 order: 2
 ---
 ##### **Fast Calculation of Effective Number of Cosmological Neutrinos in Comoving Variables**
-*Jun. 2022 - Present* 
-
-*Institute Nazionale De Fisica Nucleare - Sezione Di Torino* 
+**Institute Nazionale De Fisica Nucleare - Sezione Di Torino** <br />
 *Pi: Dr. Stefano Gariazzo*
 
-• Numerically computing number of effective relativistic neutrino species in comoving variables after non-instantaneous neutrino decoupling.
-• Developing a fast code with 10e-2 accuracy to the full calculations, but reducing computation time from days to a few seconds.
-• Considering effects of neutrino oscillations, electron mass suppression, finite temperature QED corrections, etc. on the N􀕊􀕋􀕋 .
-• Calculating in a model-independent manner to analyze the impact of stellar neutrino species, WIMPs, thermal dark matter, etc.
+*Jun. 2022 - Present* 
+
+- Numerically computing number of effective relativistic neutrino species in comoving variables after non-instantaneous neutrino decoupling.
+- Developing a fast code with 10e-2 accuracy to the full calculations, but reducing computation time from days to a few seconds.
+- Considering effects of neutrino oscillations, electron mass suppression, finite temperature QED corrections, etc. on the Neff.
+- Calculating in a model-independent manner to analyze the impact of stellar neutrino species, WIMPs, thermal dark matter, etc.
 
 ---
 ##### **Astronomical data-processing pipeline creation for the Devasthal Fast Optical Telescope**
