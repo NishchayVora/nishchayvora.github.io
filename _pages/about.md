@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Hardik, and currently pursuing double majors in (B.E.) Computer Science and (M.Sc.) Biological Sciences from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}.
+Hi! I am Nishchay, and currently pursuing double majors in (B.E.) Computer Science and (M.Sc.) Biological Sciences from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}.
 
 
 My research interest lies at the intersection of biology and computer science. I'm exploring machine learning, deep learning, computational neuroscience, computational biology and bioinformatics. 
