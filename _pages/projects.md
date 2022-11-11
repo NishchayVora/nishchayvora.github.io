@@ -9,7 +9,8 @@ order: 2
 ##### **Fast Calculation of Effective Number of Cosmological Neutrinos in Comoving Variables**
 *Jun. 2022 - Present* 
 
-*INSTITUTE NAZIONALE DE FISICA NUCLEARE - SEZIONE DI TORINO, PI: DR. STEFANO GARIAZZO*
+*Institute Nazionale De Fisica Nucleare - Sezione Di Torino* 
+*Pi: Dr. Stefano Gariazzo*
 
 • Numerically computing number of effective relativistic neutrino species in comoving variables after non-instantaneous neutrino decoupling.
 • Developing a fast code with 10e-2 accuracy to the full calculations, but reducing computation time from days to a few seconds.
