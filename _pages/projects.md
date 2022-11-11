@@ -19,68 +19,75 @@ order: 2
 
 ---
 ##### **Astronomical data-processing pipeline creation for the Devasthal Fast Optical Telescope**
+**Aryabhatta Research Institute Of Observational Sciences (ARIES Observatory, Nainital)**
+
 *May. 2022* 
 
-*ARYABHATTA RESEARCH INSTITUTE OF OBSERVATIONAL SCIENCES (ARIES OBSERVATORY, NAINITAL)*
-
-• Created an open online data archive for wide-field photometry observations from DFOT.
-• An automated computational pipeline was developed to convert raw FITS astronomical data from each observation to processed images.
-• Pre-processing, astrometry and photometry was done using Python (Astropy, Photoutils, Astroalign, CCDProc) to make the process easily modifiable
++ Created an open online data archive for wide-field photometry observations from DFOT.
++ An automated computational pipeline was developed to convert raw FITS astronomical data from each observation to processed images.
++ Pre-processing, astrometry and photometry was done using Python (Astropy, Photoutils, Astroalign, CCDProc) to make the process easily modifiable
 for monitoring of transients, variability of stars, AGNs, etc.
 
 ---
 ##### **Thermalization of Neutrinos in the Early Universe (Master’s thesis)**
+**Institute Nazionale De Fisica Nucleare - Sezione Di Torino** <br />
+*Pi: Dr. Stefano Gariazzo*
+
 *Jan. 2022 - May. 2022* 
 
-*INSTITUTE NAZIONALE DE FISICA NUCLEARE - SEZIONE DI TORINO, PI: DR. STEFANO GARIAZZO*
-
-• Understood neutrino decoupling in standard cosmology in both instantaneous and non-instantaneous case.
-• Solved the relativistic Boltzmann equations in comoving variables to see effects on photon and neutrino temperature evolution.
-• Calculated distortions in the neutrino distributions due to electron-positron annihilation by computing the collision terms for each interaction.
+..* Understood neutrino decoupling in standard cosmology in both instantaneous and non-instantaneous case.
+..* Solved the relativistic Boltzmann equations in comoving variables to see effects on photon and neutrino temperature evolution.
+..* Calculated distortions in the neutrino distributions due to electron-positron annihilation by computing the collision terms for each interaction.
 
 ---
 ##### **Study on the Modern Cosmological Model (Bachelor’s Thesis)**
-*Aug. 2021 - Dec. 2021* 
+**Institute Nazionale De Fisica Nucleare - Sezione Di Torino** <br />
+*Pi: Dr. Stefano Gariazzo*
 
-*INSTITUTE NAZIONALE DE FISICA NUCLEARE - SEZIONE DI TORINO, PI: DR. STEFANO GARIAZZO*
+*Aug. 2021 - Dec. 2021*
 
-• Understood geometry of curved spacetime, Equivalence principle, Einstein and Friedmann equations in Lambda-CDM model.
-• Studied statistical mechanics, thermodynamics and the dynamics of an expanding universe, and constructed the Boltzmann equations.
-• Studied dynamics of the early universe, including inflation, species decoupling and transitions of epochs.
+* Understood geometry of curved spacetime, Equivalence principle, Einstein and Friedmann equations in Lambda-CDM model.
+* Studied statistical mechanics, thermodynamics and the dynamics of an expanding universe, and constructed the Boltzmann equations.
+* Studied dynamics of the early universe, including inflation, species decoupling and transitions of epochs.
 
 ---
 
 ##### **Study on Weak Interactions and Neutrinos**
+**Nuclear And Particle Physics Group, Dept. Of Physics, BITS Pilani** <br />
+*Pi: Prof. Rishikesh Vaidya*
+
 *Jan. 2021 - May. 2021* 
 
-*NUCLEAR AND PARTICLE PHYSICS GROUP, DEPT. OF PHYSICS, BITS PILANI, PI: PROF. RISHIKESH VAIDYA*
-
-• Understood weak gauge interactions and the family structure of leptons to appreciate masslessness of neutrinos within the standard model.
-• Understood the experimental background, solar and atmospheric neutrino anomalies as well as accelerator experiments.
-• Understood the Dirac and Majorana nature of neutrinos and Neutrino oscillations as a solution to these problems.
+- Understood weak gauge interactions and the family structure of leptons to appreciate masslessness of neutrinos within the standard model.
+- Understood the experimental background, solar and atmospheric neutrino anomalies as well as accelerator experiments.
+- Understood the Dirac and Majorana nature of neutrinos and Neutrino oscillations as a solution to these problems.
 
 ---
 
 ##### **Experimental and Computational Analysis of Droplet Dynamics on Superhydrophobic Surfaces*
+**Department Of Mechanical Engineering, BITS Pilani** <br />
+*Pi: Prof. A.R. Harikrishnan*
 
 *Aug. 2020 - May. 2021* 
 
-• Setup and conducted the experiment using a high-speed camera for water droplets impacting syperhydrophobic acrylic surfaces.
-• Developed computational fluid dynamic simulations for varying multiphase cases and compared with the experimental data.
+- Setup and conducted the experiment using a high-speed camera for water droplets impacting syperhydrophobic acrylic surfaces.
+- Developed computational fluid dynamic simulations for varying multiphase cases and compared with the experimental data.
 
 ---
 
 ##### **Optimization of Large Rotating Plug of Prototype Fast Breeder Reactor (PFBR, Kalpakkam)**
-*INDIRA GANDHI CENTRE FOR ATOMIC RESEARCH (IGCAR), PI: MR. S.R. AITHAL*
+**Indira Gandhi Centre For Atomic Research (IGCAR)** <br />
+*Pi: Mr. S.r. Aithal*
 
 *May. 2019 - Jul. 2019*
 
-• Optimized components of the top shield of the new 500MWe fast breeder nuclear reactor being constructed in Kalpakkam, Tamil Nadu.
-• Designed Large Diameter Bearings to handle the extreme temperature gradient in the top shield using spacer balls for high reliability.
+- Optimized components of the top shield of the new 500MWe fast breeder nuclear reactor being constructed in Kalpakkam, Tamil Nadu.
+- Designed Large Diameter Bearings to handle the extreme temperature gradient in the top shield using spacer balls for high reliability.
 
 ---
 
 ##### **Image Sensing by Hypersprectal Camera and Sun-Sensor Optimization on Nanosatellite*
+**Team Anant - Nanosatellite Team, BITS Pilani**
 
 *May - July 2020*
 
