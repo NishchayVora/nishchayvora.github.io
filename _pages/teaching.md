@@ -13,7 +13,7 @@ order: 3
 
 Current theoretical problems in neutrino physics, state-of-the-art neutrino experiments, and applications in cosmology and astrophysics.
 
-[website]([https://academy.neuromatch.io/](https://indico.nbi.ku.dk/event/1731/))
+[website](https://indico.nbi.ku.dk/event/1731/)
 
 ---
 ##### **ARIES Training School in Observational Astronomy (ATSOA 2022)**  
