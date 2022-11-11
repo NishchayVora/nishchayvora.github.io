@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /schools/
+title: schools
 description: 
 nav: true
 order: 3
