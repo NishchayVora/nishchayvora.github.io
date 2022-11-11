@@ -7,43 +7,23 @@ nav: true
 order: 5
 ---
 
-
-**Computer Science**
-
+- General Theory Of Relativity and Cosmology 
+- Particle Physics 
+- Astronomy and Astrophysics 
+- Non-linear Dynamics and Chaos 
+- Nuclear Physics 
+- Atomic and Molecular Physics 
+- Computational Physics 
+- Statistical Mechanics 
+- Quantum Mechanics 
+- Electromagnetic Theory 
+- Optics  
+- Solid State Physics 
+- Fluid Mechanics 
+- Mathematical Methods of Physics 
+- Gas Dynamics 
+- Numerical Fluid Flow and Heat Transfer 
+- Mathematics I (Multivariate calculus) 
+- Mathematics II (Linear Algebra and Complex Analysis) 
+- Mathematics III (Differential Equations) 
 - Computer Programming
-- Object Oriented Programming
-- Database Systems
-- Data Structures and Algorithms
-- Logic in Computer Science
-- Microprocessors & Interfacing
-- Computer Architecture
-- Operating Systems
-- Theory of Computation
-- Data Mining
-- Principles of Programming Languages
-
----
-
-**Biological Sciences**
-
-* Bioinformatics
-* Biophysics
-* Biochemistry
-* Cell Biology
-* Developmental Biology
-* Animal Physiology
-* Plant Physiology
-* Microbiology
-* Immunology
-
-
----
-
-**Mathematics**
-
-* Mathematics I - Calculus
-* Mathematics II - Linear Algebra
-* Mathematics III - Differential Equations
-* Discrete Mathematics
-* Probability and Statistics
-* Fuzzy Logic and Applications
