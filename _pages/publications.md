@@ -1,27 +1,19 @@
+
 ---
 layout: page
-permalink: /awards/
-title: awards
+permalink: /publications/
+title: publications
 description:
 years: [2020]
 nav: true
 order: 4
 ---
-##### **Bronze Medal in the International University Physics Competition**
-*Online Competition*
+<!-- _pages/publications.md -->
+<div class="publications">
 
-*November 2020* 
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
 
-Optimization of orbit and maneuvering of a spacecraft to be transferred from circular orbit around the Earth to circular orbit around Saturn using Ion thrusters.
-
-[website](http://www.uphysicsc.com/2020contest.html)
-
----
-##### **2nd Prize in Decoherence**
-*Indian Institute of Science, Bangalore, India*
-
-*January 2019* 
-
-Optimization of orbit and maneuvering of a spacecraft to be transferred from circular orbit around the Earth to circular orbit around Saturn using Ion thrusters.
-
-[website](https://www.pravega.org/scitech/decoherence)
+</div>
