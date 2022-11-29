@@ -35,6 +35,6 @@ I also worked on the [Human Connectome Project (HCP)](https://www.humanconnectom
 
 I previously worked at the [RWTH Aachen University](https://www.rwth-aachen.de/go/id/a/?lidx=1) as a research intern analyzing protein engineering techniques using machine learning tools. Specifically, I explored directed evolution, a method of selection based on natural evolution to filter specific biophysical properties of the proteins. -->
 
-My CV can be viewed at this [link](https://drive.google.com/file/d/1Q3-DgJulFEou-2JK8nKF4ztszBgNgB_c/view?usp=sharing).
+My CV can be viewed at this [link](https://drive.google.com/file/d/12S2KkGX-RSSQbuQcwDAh_kUWVuqYXHpr/view?usp=sharing).
 
 Feel free to get in touch with me at my [email address](mailto:nishchay.vora@gmail.com)!
