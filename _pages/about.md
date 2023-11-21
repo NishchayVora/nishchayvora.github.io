@@ -18,7 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Nishchay, I am currently pursuing M1 in [Paris Physics Master](http://www.parisphysicsmaster.com/home.html){:target="\_blank"} at [Université Paris Cité](https://u-paris.fr/){:target="\_blank"} and [Sorbonne Université](https://www.sorbonne-universite.fr/){:target="\_blank"}. I have completed double majors in (B.E.) Mechanical and (M.Sc.) Physics from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}. 
+Hi! I am Nishchay, I am currently pursuing M1 in [Paris Physics Master](http://www.parisphysicsmaster.com/home.html){:target="\_blank"} at [Université Paris Cité](https://u-paris.fr/){:target="\_blank"} and [Sorbonne Université](https://www.sorbonne-universite.fr/){:target="\_blank"}. 
+
+I am a [SMARTS-UP](https://mobility.smarts-up.fr/){:target="\_blank"} excellence scholarship holder, and I have completed double majors in (B.E.) Mechanical and (M.Sc.) Physics from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}. 
 
 My research interests lie at the intersection of particle physics and cosmology. I'm excited about exploring particle interactions in the early universe, extensions of the standard model, and also modified theories of gravity.
 
