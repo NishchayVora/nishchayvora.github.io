@@ -22,7 +22,7 @@ Hi! I am Nishchay, I am currently pursuing M1 in [Paris Physics Master](http://w
 
 I am a [SMARTS-UP](https://mobility.smarts-up.fr/){:target="\_blank"} excellence scholarship holder, and I have completed double majors in (B.E.) Mechanical and (M.Sc.) Physics from [BITS Pilani, India](https://www.bits-pilani.ac.in/){:target="\_blank"}. 
 
-My research interests lie at the intersection of particle physics and cosmology. I'm excited about exploring particle interactions in the early universe, extensions of the standard model, and also modified theories of gravity.
+My research interests lie at the intersection of particle physics and cosmology. I'm excited about exploring particle interactions in the early universe, extensions of the standard model, and modified theories of gravity and cosmology.
 
 <!-- Thesis at Allen -->
 Last year, I was involved in a research project under the guidance of Dr. Stefano Gariazzo at the [Insitute Nazionale di Fisica Nucleare - Sezione da Torino](https://www.to.infn.it/), where I developed a fast calculation of the effective number of cosmological neutrinos in the early universe.
