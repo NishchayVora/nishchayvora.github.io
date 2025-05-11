@@ -27,6 +27,7 @@ My research interests lie at the intersection of particle physics and cosmology.
 <!-- Thesis at Allen -->
 Last year, I was involved in a research project under the guidance of Dr. Stefano Gariazzo at the [Insitute Nazionale di Fisica Nucleare - Sezione da Torino](https://www.to.infn.it/), where I developed a fast calculation of the effective number of cosmological neutrinos in the early universe.
 
+This website is outdated.
 <!-- Thesis at EPFL -->
 <!-- Recently, I worked on my Master's thesis at INFN, Turin studying non-instantaneous neutrino decoupling and calculating distortions in neutrino distributions due to electron-positron annihilation. -->
 
